@@ -10,8 +10,8 @@ import os
 import sys
 
 ENTRY = (
-    "Don't take the night shift at the warehouse on 14 March, even when the foreman doubles your pay.\n"
-    "The forklift crushed your left hand that night, and the settlement paid for the college course that made you a teacher instead of a loader."
+    "Say no when the foreman offers you double pay to cover the night shift at the warehouse on 14 March.\n"
+    "The forklift crushes your left hand that night, and the settlement pays for the teaching degree that gets you out of the warehouse for good."
 )
 
 
