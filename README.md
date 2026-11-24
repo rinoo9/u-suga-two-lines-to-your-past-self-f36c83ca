@@ -6,8 +6,8 @@
 
 Entry for the [make.fun](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca) bounty **Two Lines to Your Past Self** ($2 reward, 1st place takes all). The program writes a two-line warning to the writer's past self: line one warns about one specific moment, and line two says why that moment mattered and what changed because of it.
 
-> Don't take the night shift at the warehouse on 14 March, even when the foreman doubles your pay.
-> The forklift crushed your left hand that night, and the settlement paid for the college course that made you a teacher instead of a loader.
+> Say no when the foreman offers you double pay to cover the night shift at the warehouse on 14 March.
+> The forklift crushes your left hand that night, and the settlement pays for the teaching degree that gets you out of the warehouse for good.
 
 ## Run it
 
