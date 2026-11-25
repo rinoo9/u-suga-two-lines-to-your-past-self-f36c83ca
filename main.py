@@ -10,8 +10,8 @@ import os
 import sys
 
 ENTRY = (
-    "Say no when the foreman offers you double pay to cover the night shift at the warehouse on 14 March.\n"
-    "The forklift crushes your left hand that night, and the settlement pays for the teaching degree that gets you out of the warehouse for good."
+    "Take the long way around the server room on your first night shift, not the shortcut past the old coolant pipes.\n"
+    "The burst pipe floods the rack you would have been standing beside, and the incident report is what gets you promoted to safety lead."
 )
 
 
