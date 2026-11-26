@@ -10,8 +10,8 @@ import os
 import sys
 
 ENTRY = (
-    "Don't push the deploy on Friday at 4:55 p.m. just because the tests are green.\n"
-    "The rollback eats your whole weekend, and Monday's stand-up is where you first hear the words 'change freeze'."
+    "Don't push the deploy on Friday at 4:55 p.m. just because the tests are green and the office is already empty.\n"
+    "The rollback eats your whole weekend, and Monday's stand-up is where you first hear the words 'change freeze' -- from your own manager."
 )
 
 
