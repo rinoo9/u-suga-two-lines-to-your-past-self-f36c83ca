@@ -10,8 +10,8 @@ import os
 import sys
 
 ENTRY = (
-    "Take the long way around the server room on your first night shift, not the shortcut past the old coolant pipes.\n"
-    "The burst pipe floods the rack you would have been standing beside, and the incident report is what gets you promoted to safety lead."
+    "Don't push the deploy on Friday at 4:55 p.m. just because the tests are green.\n"
+    "The rollback eats your whole weekend, and Monday's stand-up is where you first hear the words 'change freeze'."
 )
 
 
